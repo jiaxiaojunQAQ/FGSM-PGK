@@ -8,7 +8,9 @@
 </p>
 
 ## Introduction
-![Adversarial example generation of the proposed FGSM-PGK](/imgs/home.png)
+<div style="text-align: center">
+<img src="./imgs/home.png"/>
+</div>
 <p align="center">
 PGD-10 accuracy and training time of various fast adversarial
 training methods with ResNet18 as the backbone on the CIFAR-10 dateset. The x-axis represents training time (lower values indicate higher
